@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hi there ! 👋 </h1>
+<h2 align="center">✨ Aspiring Software Engineer and Enthusiastic Learner ✨ </h2>
 
-<!--
-**aimanaisha/aimanaisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on **web developement**
+- 🌱 I’m currently learning **javascript**
+- 🤔 I’m looking for help with **DSA**
+- 💬 Ask me about **python**
+- 📫 How to reach me: **aimanaisha851@gmail.com**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I love reading**
+
+![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanaisha&show_icons=true&theme=radical)
