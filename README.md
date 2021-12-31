@@ -10,6 +10,5 @@
 - 💬 Ask me about **python**
 - 📫 How to reach me: **aimanaisha851@gmail.com**
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **I love reading**
 
 ![Aiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimanaisha&show_icons=true&theme=radical)
