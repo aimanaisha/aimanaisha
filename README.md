@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **web developement**
 - 🌱 I’m currently learning **javascript**
 - 🤔 I’m looking for help with **DSA**
-- 💬 Ask me about **python**
 - 📫 How to reach me: **aimanaisha851@gmail.com**
 - 😄 Pronouns: **she/her**
 
