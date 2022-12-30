@@ -2,7 +2,8 @@
 <div align="center">
 <h1> Hello there! I'm Aiman Aisha </h1>
 <p>✨ Aspiring Software Engineer and Enthusiastic Learner ✨ </p>
-
+<br> <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=aimanaisha&label=Profile%20views&color=fe428e&style=flat"/> </p>
   
 <br>
 <h2 ><b>My Technical Skills</b></h2>
